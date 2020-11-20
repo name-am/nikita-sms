@@ -1,0 +1,22 @@
+{
+  "name": "nikita-sms",
+  "version": "1.0.0",
+  "description": "Node.js module for Nikita mobile SMS gateway. Helping digital enterprises connect and engage with their consumers.",
+  "main": "index.js",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nikita",
+    "sms",
+    "rest",
+    "api",
+    "name.am"
+  ],
+  "author": "Aram Kghmesyan",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
